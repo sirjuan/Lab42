@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Product value is " + product.countValue());
         product.changePrice(354.3);
         product.printProduct();
+        
     }
 }
 class Product {
